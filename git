@@ -1,0 +1,24 @@
+//connecting to repository
+git init
+git remote add origin https://github.com/raeeseland/Capstone.git
+git clone https://github.com/raeeseland/Capstone.git
+
+//create own branch
+git checkout -b <branch name>
+
+//switch to branch
+git checkout
+
+//merge two branches
+git checkout <merge to>
+git merge 
+
+//adding to repository
+git add
+git commit -m
+git push origin master
+
+
+
+
+
